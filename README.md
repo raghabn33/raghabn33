@@ -1,76 +1,56 @@
 <h1 align="center">Hey 👋, I'm Raghav Nath</h1>
-<h3 align="center">🚀 Passionate AI & ML Developer from India 🇮🇳</h3>
+<h3 align="center">🚀 A Passionate AI/ML Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raghabn33&label=Profile%20Views&color=0e75b6&style=flat" alt="raghabn33" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+Shin+AI+%F0%9F%94%96;Founder+of+Learn+Bharat+%F0%9F%87%AE%F0%9F%87%B3;Exploring+AI%2C+NLP+%26+Deep+Tech" alt="Typing SVG" />
 </p>
 
 ---
 
-- 🔭 I’m currently building **Shin AI** and **Learn Bharat**
-- 🌱 Learning hardcore **Machine Learning**, **NLP**, and **AI Ops**
-- 👨‍💻 All of my projects are available at [GitHub.com/raghabn33](https://github.com/raghabn33)
-- 📫 Reach me at **itzraghav127@gmail.com**
-- ⚡ Fun Fact: My code never sleeps... because I don't either 😎
+## 🧠 About Me
+
+- 🔭 I’m currently working on **Shin AI** and **Learn Bharat**
+- 🌱 Learning **Machine Learning**, **NLP**, **AI Ops**
+- 🧰 Tools I Use: AI, Python, Deep Learning, Flask, React, MongoDB
+- 📬 Reach me at: [itzraghav127@gmail.com](mailto:itzraghav127@gmail.com)
 
 ---
 
-## 🌐 Connect with me
+## 🧑‍💻 Tech Stack & Tools
 
-<p align="left">
-  <a href="https://fb.com/raghav nath" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="raghav nath" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/itzraghav127" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itzraghav127" height="30" width="40" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikit-learn,react,nodejs,mongodb,mysql,php,html,css,js,linux,rust,scala,kotlin,swift,bootstrap" />
+</div>
 
 ---
 
-## 🛠️ Languages & Tools
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats
+## 🌐 Connect with Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raghabn33&show_icons=true&theme=tokyonight" alt="raghabn33" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raghabn33&theme=tokyonight" alt="raghabn33" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghabn33&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <a href="https://fb.com/raghav%20nath" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://instagram.com/itzraghav127" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:itzraghav127@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🧠 AI Projects I’m Working On
-- 🧬 **Shin AI** – An intelligent assistant with voice + vision
-- 🇮🇳 **Learn Bharat** – AI-powered edtech to bring smart learning to rural India
-- 🛰️ **Autonomous Drone AI** – Integrating ML with hardware for flight and detection
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=raghabn33&show_icons=true&theme=radical&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghabn33&layout=compact&theme=radical" />
+</div>
 
 ---
 
-> “Code like Stark, think like Musk, and never give up like Naruto.” 🔥
+## ⚡ Fun Fact
+
+> "They call me Hopin... because when destiny flipped the game, I turned it into code."  
+> 🧠 No heart? Still smarter than your candy crush.
+
+---
+
+### 🛰️ Powered by  
+![Tony Stark](https://img.shields.io/badge/Built%20with%20AI-J.A.R.V.I.S%20Mode-blueviolet?style=for-the-badge&logo=github&logoColor=white)
+
+---
