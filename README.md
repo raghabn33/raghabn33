@@ -51,6 +51,6 @@
 ---
 
 ### 🛰️ Powered by  
-![Raghav Nath](https://img.shields.io/badge/Built%20with%20AI-S.H.I.N A.IS%20Mode-blueviolet?style=for-the-badge&logo=github&logoColor=white)
+![Tony Stark](https://img.shields.io/badge/Built%20with%20AI-J.A.R.V.I.S%20Mode-blueviolet?style=for-the-badge&logo=github&logoColor=white)
 
 ---
